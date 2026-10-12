@@ -77,6 +77,8 @@ If any provision, paragraph, or clause of this License is found by an internatio
 ### 5.3 GOVERNING LAW
 This License and all associated property claims, structural timeline priority tracing disputes, and commercial infringement actions are governed explicitly and exclusively under the sovereign statutory laws of the **Kingdom of Sweden (SE)**, without regard to international conflicts of law frameworks. All arbitration loops shall be executed within Swedish jurisdictions.
 
-================================================================================
-END OF SPECIFICATION CONTRACT // MUHR-HCSIPL v2.0 // DEPLOYMENT ACTIVE
-================================================================================
+---
+
+**END OF SPECIFICATION CONTRACT // MUHR-HCSIPL v2.0 // DEPLOYMENT ACTIVE**
+
+---
