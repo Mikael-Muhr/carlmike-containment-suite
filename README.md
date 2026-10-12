@@ -1,21 +1,16 @@
-================================================================================
-SYSTEM ARCHITECTURE SPECIFICATION | CLASSIFICATION: SECURE ARCH / PRIVATE R&D
-DOCUMENT MATRIX: [CARL_MIKE_CORE] // UNIFIED SPECIFICATION // FILE: README.md
-CHIEF ARCHITECT: MIKAEL MUHR // PROPERTY ID: ADHD STADEN™
-REPOSITORY TRACKING PLANE: carlmike-containment-suite
-AUTHORITATIVE NETWORK DOMAIN: PRIVILEGED ACCESS VIA http://carlmike.com
-AUTHORITATIVE KEY SIGNATURE: 
-SHA256:/nhcatf/jCsQGQULu5QufBmqs8CJ9BI/+l18p6rKhN8 Mikael Muhr
-COPYRIGHT © 2026 MIKAEL MUHR (ADHD STADEN™). ALL RIGHTS RESERVED.
-================================================================================
-
 # THE CARL MIKE CONTAINMENT SUITE
-## SEVEN-TIER HARDWARE-ISOLATED DATA CENTER CONTAINMENT AND BEHAVIORAL GOVERNANCE TOPOLOGY
+## SEVEN-TIER HARDWARE-ISOLATED AI & SUPER INTELLIGENCE (SI) SYSTEM CONTAINMENT TOPOLOGY
+
+**Authoritative Cryptographic Key Fingerprint:**  
+`SHA256:/nhcatf/jCsQGQULu5QufBmqs8CJ9BI/+l18p6rKhN8 Mikael Muhr`
+
+---
 
 **Copyright (c) 2026 Mikael Muhr / ADHD Staden™. All Rights Reserved.**  
 **Sovereign Legal Jurisdiction:** Kingdom of Sweden (SE)  
 **Authoritative Interface Hub:** http://carlmike.com  
 **License Core:** Protected under the Muhr-HCSIPL v2.0 (Proprietary / Source-Available)
+
 
 ---
 
