@@ -1,13 +1,13 @@
-================================================================================
-LEGAL REPOSITORY CONTRACT | SPECIFICATION CORE | BRAND RELEASE SUITE: 2026
-LICENSING VARIANT: MUHR-HCSIPL v2.0 (HARDWARE & SYSTEM SYSTEM MATRIX)
-REPOSITORY TRACKING PLANE: carlmike-containment-suite
-LICENSOR / INTELLECTUAL PROPERTY OWNER: MIKAEL MUHR // PROPERTY ID: ADHD STADEN™
-AUTHORITATIVE CORE NETWORK DOMAIN: PRIVILEGED ACCESS VIA http://carlmike.com
-COPYRIGHT © 2026 MIKAEL MUHR (ADHD STADEN™). ALL RIGHTS RESERVED.
-================================================================================
-
 # THE MUHR HARDWARE-CONTAINMENT SYSTEM AND BLUEPRINT LICENSE (v2.0)
+
+* **Licensor / Intellectual Property Owner:** Mikael Muhr (Property ID: ADHD Staden™)
+* **Repository Tracking Plane:** carlmike-containment-suite
+* **Authoritative Network Domain:** http://carlmike.com
+* **Jurisdiction:** Kingdom of Sweden (SE)
+* **Copyright:** © 2026 Mikael Muhr. All Rights Reserved.
+
+---
+
 
 ### PREAMBLE & INVENTIVE INTENT
 This global proprietary license (the "License") establishes the absolute, non-negotiable legal and structural governance boundaries for the Carl Mike Containment Suite, including all seven architectural layers, vertical ASCII data flow models, fluid manipulation corridors, network isolating firebreak schemas, and micro-segmented hardware motherboard-level blueprints (collectively referred to as the "Protocol"). 
