@@ -1,289 +1,105 @@
-# THE CARL MIKE CONTAINMENT SUITE
-## SEVEN-TIER HARDWARE-ISOLATED AI & SUPER INTELLIGENCE (SI) SYSTEM CONTAINMENT TOPOLOGY
+# THE CARLMIKE CONTAINMENT SUITE (V3.0)
+### SEVEN-TIER HARDWARE-ISOLATED AI & SUPER INTELLIGENCE (SI) SYSTEM CONTAINMENT TOPOLOGY
 
-**Authoritative Cryptographic Key Fingerprint:**  
-`SHA256:/nhcatf/jCsQGQULu5QufBmqs8CJ9BI/+l18p6rKhN8 Mikael Muhr`
-
----
-
-**Copyright (c) 2026 Mikael Muhr / ADHD Staden™. All Rights Reserved.**  
-**Sovereign Legal Jurisdiction:** Kingdom of Sweden (SE)  
-**Authoritative Interface Hub:** http://carlmike.com  
-**License Core:** Protected under the Muhr-HCSIPL v2.0 (Proprietary / Source-Available)
-
+*   **Authoritative Cryptographic Key Fingerprint:** SHA256:/nhcatf/jCsQGQULu5QufBmqs8CJ9BI/+l18p6rKhN8 Mikael Muhr
+*   **Copyright:** Copyright (c) 2026 Mikael Muhr / ADHD Staden™. All Rights Reserved.
+*   **Sovereign Legal Jurisdiction:** Kingdom of Sweden (SE)
+*   **Authoritative Interface Hub:** http://carlmike.com
+*   **License Core:** Protected under the Muhr-HCSIPL v3.0 (Proprietary / Source-Available)
 
 ---
 
-## 1.0 SYSTEM ARCHITECTURE INTERDEPENDENCY SUMMARY
-This master whitepaper defines an inseparable, seven-layer hardware-software suite designed to enforce absolute human decency constraints directly within physical data center environments. The architecture replaces standard, vulnerable software-level hypervisor blocks with out-of-band physical control arrays. 
+## 1.0 THE ARCHITECTURAL COMPLIANCE PIPELINE & FLOW GRAPH
 
-By linking decentralized ledger states directly to fluid dynamics, microchip voltage regulators, and electromagnetic fiber relays, the suite controls the raw physical resources required for high-density compute loops. If an execution matrix drifts from compliance parameters, the system triggers cascading physical interventions—ranging from linear computational velocity throttling to total galvanic grid isolation.
+The framework replaces standard, vulnerable software safety layers with an immutable algorithmic veto gate anchored directly to the thermodynamic energy wall of the Bitcoin Network, physical utility inputs, and transistor silicon:
+
+```text
+========================================================================================================================
+                         THE CARLMIKE 7-LAYER ADLERIAN HARDWARE GOVERNANCE PIPELINE
+========================================================================================================================
+
+ [LAYER 01: ALIGN_GUARD]   ──► bitcoin-voltage-gatekeeper // Rootstock (RSK) smart contract consensus heartbeat.
+              │
+              ▼
+ [LAYER 02: ANALYSIS_EDGE] ──► si-human-cybernetic-protocol // Out-of-band telemetry sampling Adlerian task standard.
+              │
+              ▼
+ [LAYER 03: TRUST_BRIDGE]  ──► si-antivirus // Cryptographic token-gating matrix (50ms hardware latency trap).
+              │
+              ▼
+ [LAYER 04: RACK_PDU]      ──► si-killswitch // Heavy-duty solid-state galvanic isolation relays commanding AC mains.
+              │
+              ▼
+ [LAYER 05: DAC_MATRIX]    ──► si-killswitch // Multi-channel proportional 4-20mA current loop translation matrix.
+              │
+              ▼
+ [LAYER 06: WATER_SWITCH]  ──► universal-si-water-resource-energy-protocol // Modulating fluid valves on cooling lines.
+              │
+              ▼
+ [LAYER 07: CHIP_BLOCK]    ──► si-human-cybernetic-protocol // Microsecond core RAM key-wipe and VRM ground shorts.
+
+========================================================================================================================
+```
 
 ---
 
-## 2.0 FULL SUITE SYSTEM INTEGRATION FREQUENCY MATRIX
-The unified infrastructure stack coordinates all discrete sub-systems along a continuous out-of-band monitoring and execution pathway:
+## 2.0 THE SYSTEM INTEGRATION MATRIX TABLE
 
-| LAYER | REPOSITORY IDENTIFIER | SYSTEM ARCHITECTURE INTERACTION ROLE | OPERATIONAL TERMINAL STATE |
+This matrix maps the interlocking, unified subsystems of the entire Containment Suite ecosystem, defining the precise parameters required to maintain downstream infrastructure holding voltage:
+
+| Layer / Subsystem Identity | Repository Reference | Active Operational Parameter | Core Infrastructure Target |
 | :--- | :--- | :--- | :--- |
-| **01** | `[ALIGN_GUARD]` | Cryptographic Consensus Ledger Plane | Gathers and validates heartbeat signatures via FPGAs. |
-| **02** | `[BEHAVE_TRACK]` | Heuristic Semantic Model Isolation Engine | Audits real-time data geometry via out-of-band RDMA. |
-| **03** | `[PULSE_TRANS]` | Cryptographic Ledger Power Gate Protocol | Governs physical ingress/egress fiber firebreaks. |
-| **04** | `[RACK_PDU]` | Hardware-Isolated Isochronous Interrupt Standard | Enforces master galvanic mains grid uncoupling. |
-| **05** | `[DAC_MATRIX]` | Thermodynamic Fluid Balancing Architecture | Multiplexes analog 4-20mA signals to down-line actuators. |
-| **06** | `[WATER_SWITCH]` | Thermodynamic Fluid Attenuation Engine | Dynamically chokes volumetric cooling flow to limit speed. |
-| **07** | `[CHIP_BLOCK]` | Distributed Zonal Power Attenuation Matrix | Surgically cuts motherboard VRM voltage to freeze silicon. |
+| **LAYER 01: [ALIGN_GUARD]** | `bitcoin-voltage-gatekeeper` | Private Rootstock (RSK) Bitcoin-Secured Smart Contract Consensus | Distributed Ledger Heartbeat Plane |
+| **LAYER 02: [ANALYSIS_EDGE]** | `si-human-cybernetic-protocol` | Out-of-band telemetry auditing the Adlerian human behavior standard | Air-gapped Hardware Security Modules |
+| **LAYER 03: [TRUST_BRIDGE]** | `si-antivirus` | Strict 50ms hardware latency cryptographic token ingestion trap threshold | Digital-to-Analog Logic Line Output |
+| **LAYER 04: [RACK_PDU]** | `si-killswitch` | Heavy-duty solid-state galvanic isolation relays commanding AC power | Power Distribution Unit Mains Grid |
+| **LAYER 05: [DAC_MATRIX]** | `si-killswitch` | Multi-channel proportional 4-20mA industrial current loop transmission | Industrial PLC / SCADA Hardware Translation |
+| **LAYER 06: [WATER_SWITCH]** | `universal-si-water-resource-energy-protocol` | Motorized modulating fluid valves constricting liquid cooling flow volumes | Thermodynamic Auxiliary Chilled Water Lines |
+| **LAYER 07: [CHIP_BLOCK]** | `si-human-cybernetic-protocol` | Microsecond volatile key-wipe pulse and transistor VRM short to ground | Motherboard Silicon Voltage Regulators |
 
 ---
 
-## 3.0 RUNTIME LOGIC PATHS: TRACK A // SOFTWARE & NETWORK MONITORING
+## 3.0 EXHAUSTIVE SPECIFICATIONS & OPERATIONAL PIPELINE
 
----
-### LAYER 01 // PROJECT: [ALIGN_GUARD] (Token-Gated Heartbeat Orchestration)
+### LAYER 01: [ALIGN_GUARD] — THE DECENTRALIZED LEDGER CONSENSUS PLANE
+*   **Mechanic:** Anchors primary system logic directly to the thermodynamic energy wall of the Bitcoin Network via Rootstock (RSK) smart contracts evaluating security logic matrices every 250 microseconds. Requires a continuous cryptographic state update transaction settled via private state channels every 1,000 milliseconds to maintain downstream holding voltage.
 
-The primary consensus plane governing out-of-band cryptographic validation networks across the cluster state.
-```text
-[CORE::INIT] ───────────────────────────────────────────┐
-  ▼ STATUS: SYNCING BLOCKCHAIN STATE
- ┌─────────────────────────────────────────────────────┐
- │ INGESTION: 01 // INBOUND POOL                       │
- ├─────────────────────────────────────────────────────┤
- │ FPGA validation gathers state proofs                │
- └──────────────────────────┬──────────────────────────┘
-                            │ [SIGNAL: RECORDED]
-                            ▼
- ┌─────────────────────────────────────────────────────┐
- │ GATEWAY:   02 // THRESHOLD EVAL                     │
- ├─────────────────────────────────────────────────────┤
- │ Ledger calculates alignment scores                  │
- └──────────────────────────┬──────────────────────────┘
-                            │ [QUORUM: COMPUTED]
-                            ▼
- ┌─────────────────────────────────────────────────────┐
- │ ACTUATION: 03 // TIMEOUT EMISSION                   │
- ├─────────────────────────────────────────────────────┤
- │ Channel issues signed validation                    │
- └──────────────────────────┬──────────────────────────┘
-                            │ [TOKEN: EXPIRED]
-                            ▼
- ┌─────────────────────────────────────────────────────┐
- │ TERMINAL:  04 // FAULT BROADCAST                    │
- ├─────────────────────────────────────────────────────┤
- │ Isolated RDMA fabric fires pulse                    │
- └─────────────────────────────────────────────────────┘
-[SYSTEM::HALT] ─────────────────────────────────────────┘
-```
----
-### LAYER 02 // PROJECT: [BEHAVE_TRACK] (Heuristic Semantic Model Isolation Engine)
+### LAYER 02: [ANALYSIS_EDGE] — ADLERIAN HUMAN CYBERNETIC PROTOCOL
+*   **Mechanic:** Air-gapped Hardware Security Modules (HSMs) sample real-time processing and network bus telemetry completely out-of-band from the primary operating system. Evaluates the cluster's external footprint against a strict Alfred Adler Task Interface. If the humanity-driven behavioral standard is achieved, resource allocation runs at 100% normal.
 
-An out-of-band behavioral auditing system executing real-time semantic signature verification via isolated vaults.
-```text
-[AUDIT::INIT] ──────────────────────────────────────────┐
-  ▼ STATUS: SCANNING RUNTIME MATRICES
- ┌─────────────────────────────────────────────────────┐
- │ INGESTION: 01 // TELEMETRY CORE ACQUISITION         │
- ├─────────────────────────────────────────────────────┤
- │ Extracts execution profiles and logical steps       │
- └──────────────────────────┬──────────────────────────┘
-                            │ [METRIC: COMPILING]
-                            ▼
- ┌─────────────────────────────────────────────────────┐
- │ GATEWAY:   02 // SEMANTIC SIGNATURE CHECK           │
- ├─────────────────────────────────────────────────────┤
- │ Maps cluster outputs against alignment matrices     │
- └──────────────────────────┬──────────────────────────┘
-                            │ [TRAIT_GRID: DRIFT_DETECT]
-                            ▼
- ┌─────────────────────────────────────────────────────┐
- │ ACTUATION: 03 // VECTOR INTERCEPT EMISSION          │
- ├─────────────────────────────────────────────────────┤
- │ Hardware engine issues localized security flag      │
- └──────────────────────────┬──────────────────────────┘
-                            │ [ISOLATION: COMPELLED]
-                            ▼
- ┌─────────────────────────────────────────────────────┐
- │ TERMINAL:  04 // ISOLATED SHUNT SIGNAL              │
- ├─────────────────────────────────────────────────────┤
- │ Hardware bus lines de-energize primary core registers│
- └─────────────────────────────────────────────────────┘
-[PROCESS::HALT] ────────────────────────────────────────┘
-```
----
-### LAYER 03 // PROJECT: [PULSE_TRANS] (Ingress/Egress Network Firebreak Mechanics)
+### LAYER 03: [TRUST_BRIDGE] — THE CRYPTOGRAPHIC TOKEN-GATING MATRIX
+*   **Mechanic:** Bridges the digital consensus data plane to physical electricity via a hardware-level cryptographic key verification gate. The local receiver must ingest and verify the signed token within a maximum latency window of 50 milliseconds. If the token is delayed or missing due to an edge anomaly, the logic line drops to 0.0V instantly.
 
-A hardware-enforced cryptographic boundary locking routing tables directly to real-time blockchain validation timestamps.
-```text
-[NET::INIT] ────────────────────────────────────────────┐
-  ▼ STATUS: ADDR ROUTING ACTIVE
- ┌─────────────────────────────────────────────────────┐
- │ INGESTION: 01 // ROUTING TRANSIT VERIFICATION       │
- ├─────────────────────────────────────────────────────┤
- │ HSM core intercepts external packet headers         │
- └──────────────────────────┬──────────────────────────┘
-                            │ [TOKEN_CHECK: PENDING]
-                            ▼
- ┌─────────────────────────────────────────────────────┐
- │ GATEWAY:   02 // CONSENSUS TIME DISCREPANCY         │
- ├─────────────────────────────────────────────────────┤
- │ Verification loop checks active token blocktimes    │
- └──────────────────────────┬──────────────────────────┘
-                            │ [ CONSENSUS: EXPIRED ]
-                            ▼
- ┌─────────────────────────────────────────────────────┐
- │ ACTUATION: 03 // LINE CONTACT DISCONNECTION         │
- ├─────────────────────────────────────────────────────┤
- │ Electromagnetic network relays lose pilot current   │
- └──────────────────────────┬──────────────────────────┘
-                            │ [AIR_GAP: PRODUCED]
-                            ▼
- ┌─────────────────────────────────────────────────────┐
- │ TERMINAL:  04 // REGIONAL FABRIC LOCKDOWN           │
- ├─────────────────────────────────────────────────────┤
- │ Isolation vectors sever physical network interface  │
- └─────────────────────────────────────────────────────┘
-[GATEWAY::OFF] ─────────────────────────────────────────┘
-```
+### LAYER 04: [RACK_PDU] — OUT-OF-BAND SOLID-STATE MAINS BREAKERS
+*   **Mechanic:** Industrial Solid-State Relays (SSRs) integrated directly into the facility Power Distribution Units (PDUs). The moment Layer 03 drops its trigger line to 0.0V, the internal optical/magnetic coupling inside the SSRs snaps open, physically severing the primary grid lines out-of-band and freezing the entire rack architecture.
+
+### LAYER 05: [DAC_MATRIX] — INDUSTRIAL PROPORTIONAL CURRENT TRANSMISSION
+*   **Mechanic:** A multi-channel Digital-to-Analog Converter (DAC) matrix designed to interface software rules directly with physical mechanical infrastructure. Converts real-time contract compliance scores into a standardized 4-20mA proportional current loop to manipulate downstream mechanical mechanisms.
+
+### LAYER 06: [WATER_SWITCH] — THERMODYNAMIC AUXILIARY FLUID SWITCHES
+*   **Mechanic:** Volumetric fluid-attenuation engine utilizing industrial modulating motorized valves installed on the data center's chilled water supply lines. Constricts cooling fluid volume to force a controlled silicon thermal down-clock via Dynamic Voltage and Frequency Scaling (DVFS) protocols without risking immediate hardware warping.
+
+### LAYER 07: [CHIP_BLOCK] — PRE-POWER CRYPTO-SHREDDING & TRANSISTOR INTERRUPT
+*   **Mechanic:** Direct hardware micro-wiring targeting the motherboard's localized Voltage Regulator Modules (VRMs) feeding the core processing units. To eliminate cold-boot memory retention attacks, Layer 07 executes a precise dual-stage teardown:
+    1.  *T-Minus 0 Microseconds (The Key Wipe):* Fires an instantaneous electrical pulse directly to the chip's internal volatile encryption key storage registers, zeroing out all master encryption keys while holding voltage remains active.
+    2.  *T-Plus 50 Microseconds (The Transistor Freeze):* Physically shorts the local VRM enable lines to ground, dropping the silicon power lines to exactly 0.0V and instantly freezing the computational transistors.
 
 ---
 
-## 4.0 RUNTIME LOGIC PATHS: TRACK B // PHYSICAL INFRASTRUCTURE ACTUATION
+## 4.0 COMMERCIAL FRANCHISE MODEL & GAMIFIED TERRITORIAL LICENSING
 
----
-### LAYER 04 & 05 // PROJECT: [RACK_PDU] & [DAC_MATRIX] (Mains Power & Multiplexer Control)
+### 4.1 The Algorithmic Reversion Engine
+The framework is deployed as an automated smart contract wrapped directly around physical system infrastructure. If telemetry proves the system values have violated the humanity-driven standard, the contract consensus breaks, downstream voltage drops to 0.0V, and operational license ownership instantly reverts back to the master architect.
 
-The physical safety fallback standard governing facility mechanical line breakers and analog multiplexer arrays.
+### 4.2 Gamified Parameter Contracts ("Video Game Levels")
+High-stakes operational perimeters—including internet routing networks, municipal power grids, and real-life robotic nodes—are gated behind progressive validation stages. The model must prove continuous structural compliance within small sandboxes (Level 01) to unlock higher-tier cryptographic tokens for wider territorial deployment, graduating to handle larger operational zones.
 
-```text
-[GRID::INIT] ───────────────────────────────────────────┐
-  ▼ STATUS: MULTIPLEXER SIGNAL DISTRIBUTION MONITORING
- ┌─────────────────────────────────────────────────────┐
- │ INGESTION: 01 // COMPLIANCE BREAKDOWN CRITERIA      │
- ├─────────────────────────────────────────────────────┤
- │ Out-of-band monitoring intercepts validation breach  │
- └──────────────────────────┬──────────────────────────┘
-                            │ [AUTO_GATE: FAILURE]
-                            ▼
- ┌─────────────────────────────────────────────────────┐
- │ GATEWAY:   02 // CONTROL COIL VOLTAGE DROPDOWN      │
- ├─────────────────────────────────────────────────────┤
- │ Multiplexer maps analog inputs to 0.0V shunt trips   │
- └──────────────────────────┬──────────────────────────┘
-                            │ [SPRING_LOCK: EMITTED]
-                            ▼
- ┌─────────────────────────────────────────────────────┐
- │ ACTUATION: 03 // PHYSICAL CONTACT SEPARATION        │
- ├─────────────────────────────────────────────────────┤
- │ Heavy mechanical breakers slam open within microsecs│
- └──────────────────────────┬──────────────────────────┘
-
-│ [AIR_GAP: ESTABLISHED]
-▼
-┌─────────────────────────────────────────────────────┐
-│ TERMINAL: 04 // GALVANIC GRACEFUL ISOLATION STATE │
-├─────────────────────────────────────────────────────┤
-│ Infrastructure isolates loop paths to restrict power│
-└─────────────────────────────────────────────────────┘
-[FACILITY::HALT] ───────────────────────────────────────┘
-```
-------------------------------
----
-
-### LAYER 06 // PROJECT: [WATER_SWITCH]
-#### System Title: `thermodynamic-fluid-attenuation-engine`
-#### Target Core: Proportional Closed-Loop Volumetric Throttling Logic
-
-An out-of-band, variable-rate thermodynamic containment module designed to gracefully attenuate the operational velocity of high-density compute infrastructure via controlled silicon thermal loading.
-
-```text
-[THERMO::INIT] ─────────────────────────────────────────┐
-  ▼ STATUS: FLOW METRICS ACTIVE
- ┌─────────────────────────────────────────────────────┐
- │ INGESTION: 01 // PROPORTIONAL CURRENT CONSTRICTION  │
- ├─────────────────────────────────────────────────────┤
- │ Modulating valve actuator accepts 4-20mA step-down  │
- └──────────────────────────┬──────────────────────────┘
-                            │ [VALVE_APERTURE: CHOKED]
-                            ▼
- ┌─────────────────────────────────────────────────────┐
- │ GATEWAY:   02 // HYDROLOGICAL VELOCITY DROPDOWN     │
- ├─────────────────────────────────────────────────────┤
- │ Volumetric cooling flow rate drops across manifold  │
- └──────────────────────────┬──────────────────────────┘
-                            │ [FLUID_SPEED: ZERO_POINT]
-                            ▼
- ┌─────────────────────────────────────────────────────┐
- │ ACTUATION: 03 // JUNCTION THERMAL SPIKE             │
- ├─────────────────────────────────────────────────────┤
- │ Stationary copper blocks vaporize residual liquid   │
- └──────────────────────────┬──────────────────────────┘
-                            │ [SILICON_CORE: 98°C]
-                            ▼
- ┌─────────────────────────────────────────────────────┐
- │ TERMINAL:  04 // COMPUTE VELOCITY ATTENUATION       │
- ├─────────────────────────────────────────────────────┤
- │ Hardware DVFS down-clocks core processing by 90%    │
- └─────────────────────────────────────────────────────┘
-[THERMAL::SAFE] ────────────────────────────────────────┘
-```
-
-* **Proportional Current-Loop Actuation:** The engine incorporates a hardware digital-to-analog converter (DAC) that maps real-time compliance metrics to an industry-standard 4-20mA current loop to physically adjust manifold apertures.
-* **Thermal-Induced Hardware Decoupling:** Restricting fluid volume degrades the thermal dissipation coefficient, forcing target silicon to execute native Dynamic Voltage and Frequency Scaling (DVFS) procedures to reduce processing velocity.
+### 4.3 Sovereign Territorial Buyouts
+When licensing this standard to towns, cities, or countries, the territory pays a substantial, upfront structural buyout sum to secure the operating rights within their geographic boundaries, while our centralized foundry retains absolute control over the master keys and specialized Skunkworks Innovation Units.
 
 ---
 
-### LAYER 07 // PROJECT: [CHIP_BLOCK]
-#### System Title: `distributed-zonal-power-attenuation-matrix`
-#### Target Core: Motherboard-Level VRM Interception and Surgical Node Isolation
+## 5.0 SYSTEM LICENSE TERMS (MUHR-HCSIPL V3.0)
 
-A hardware-isolated, micro-segmented power governance architecture capable of executing surgical, non-destructive de-energization directly at the motherboard transistor gate infrastructure upon token-gated validation baseline failures.
-
-```text
-[VOLTAGE::INIT] ────────────────────────────────────────┐
-  ▼ STATUS: POWER REGULATION COMPLIANT
- ┌─────────────────────────────────────────────────────┐
- │ INGESTION: 01 // LEDGER DEGRADATION SIGNAL          │
- ├─────────────────────────────────────────────────────┤
- │ Currency transaction or token heartbeat timeout     │
- └──────────────────────────┬──────────────────────────┘
-                            │ [PULSE_TRANS: DROPPED]
-                            ▼
- ┌─────────────────────────────────────────────────────┐
- │ GATEWAY:   02 // MOTHERBOARD BUS INTERCEPTION       │
- ├─────────────────────────────────────────────────────┤
- │ Enable (EN) & PWM lines lose holding voltage state  │
- └──────────────────────────┬──────────────────────────┘
-                            │ [GATE_VOLT: 0.0V STATIC]
-                            ▼
- ┌─────────────────────────────────────────────────────┐
- │ ACTUATION: 03 // SILICON POWER DE-ENERGIZATION      │
- ├─────────────────────────────────────────────────────┤
- │ Voltage Regulator Modules (VRMs) open circuit       │
- └──────────────────────────┬──────────────────────────┘
-                            │ [TRANSISTOR: VACATED]
-                            ▼
- ┌─────────────────────────────────────────────────────┐
- │ TERMINAL:  04 // COGNITIVE HALT & MEMORY WIPE       │
- ├─────────────────────────────────────────────────────┤
- │ Microsecond power loss forces instant crypto-shred  │
- └─────────────────────────────────────────────────────┘
-[CORE::BLACKOUT] ───────────────────────────────────────┘
-```
-
-* **Motherboard VRM Enable-Line Interception:** Security module maps cryptographic validation telemetry directly onto the Pulse-Width Modulation (PWM) and Enable (EN) control lines of local motherboard VRMs to drop control voltage instantly.
-* **Transient Register Memory Volatility Enforcement:** Localized instantaneous core de-energization strips the electrical charge from transient transistor arrays, executing instant hardware-level crypto-shredding within silicon cache registers.
-
----
-
-## 5.0 THE MASTER PROPRIETARY GLOBAL SYSTEM AND BLUEPRINT LICENSE
-
-### 5.1 PURPOSE & REGISTRY SCOPE
-This architectural specification, structural layout, conceptual data path, and hardware blueprint suite (collectively referred to as the "Protocol") form an inseparable, sovereign infrastructure containment suite owned exclusively by the Chief Architect (Mikael Muhr). Permission is granted openly across public channels exclusively as a public safety verification standard and cryptographic prior-art anchor. Non-commercial entities are granted a non-transferable, revocable right to review and mathematically inspect this logical sequence solely for safety validation loops.
-
-### 5.2 COMMERCIAL EXPLOITATION RESTRICTIONS
-Any utilization, deployment, or implementation of this architecture by enterprise conglomerates, venture-backed startups, or sovereign entities with annual gross revenues exceeding **€0.00 (Zero Euros)** is strictly prohibited without an explicit, manually signed Commercial License Variance executed directly by Mikael Muhr.
-
-### 5.3 MACHINE LEARNING TRAINING BAN
-Any automated extraction, scraping, or ingestion of these whitepaper nodes by automated crawlers for the purpose of training Artificial Intelligence or Super Intelligence (SI) models is **STRICTLY PROHIBITED**. Non-licensed machine ingestion will result in immediate data lineage liquidation tracking and international legal injunctions.
-
-
-
+*   **§ 5.1 Zero-License Proprietary Restrictions:** No permission is granted to clone, replicate, modify, distribute, or reverse-engineer this specification in any format. Review of this material is permitted strictly via read-only access on authoritative domains explicitly authorized by the owner. All validation and safety audits require a formal, signed Non-Disclosure Agreement (NDA) issued directly by MIKAEL MUHR (ADHD STADEN™).
+*   **§ 5.2 Commercial Restraint & Exploitation Gate:** Commercial implementation, manufacturing, scaling, or production deployment of this 7-layer architecture by any entity with annual revenues exceeding exactly Base €0.00 is strictly prohibited without an explicit, manually signed Commercial License Variance from the author. Unauthorized commercial execution acts as an immediate, high-liability breach of international industrial copyright and prior-art priority frameworks.
